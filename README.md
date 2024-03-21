@@ -1,1 +1,3 @@
 # my-first-project
+
+If your Docker container has no internet access, it can be frustrating and hinder your ability to install packages or communicate with external servic...
